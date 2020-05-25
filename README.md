@@ -45,7 +45,7 @@ Project Before
     └── cordapp-b.jar               // The new cordapp to add to the existing nodes
 
 Step 4:- 
-   java -jar network-bootstrapper-4.4.jar --copy-cordapps Yes --dir <nodes-root-dir>
+   java -jar network-bootstrapper-4.4.jar --copy-cordapps Yes --dir //pathhereto nodebuild
 
 Step 5:- 
 
